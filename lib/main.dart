@@ -46,7 +46,7 @@ class _MyAppState extends State<MyApp> {
               Divider(),
               Padding(
                 padding: const EdgeInsets.all(5.0),
-                child: Text("Devoloped by @Agent Vikram.All rights reserved"),
+                child: Text("Devoloped by vikram balaji subrahmanyam"),
               )
             ],
           )),
